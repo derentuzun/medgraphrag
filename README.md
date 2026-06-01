@@ -10,6 +10,12 @@ Motivated by the limitations of keyword-based retrieval (explored in a prior BM2
 
 ## Architecture
 
+```
+PubMedQA Dataset → Entity Extraction (spaCy) → Knowledge Graph (Neo4j)
+                                                        ↓
+User Query → RAG Pipeline (LlamaIndex + ChromaDB) → GraphRAG → Answer
+```
+
 ## Features
 
 - 🔬 **Dataset**: 1,000 labeled PubMedQA question-answer pairs
