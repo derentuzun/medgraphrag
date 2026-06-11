@@ -30,10 +30,10 @@ User Query → RAG Pipeline (LlamaIndex + ChromaDB) → GraphRAG → Answer
 
 - [x] Data loading and exploration
 - [x] Entity extraction pipeline
-- [ ] Knowledge Graph construction (Neo4j)
-- [ ] RAG pipeline (LlamaIndex + ChromaDB)
-- [ ] GraphRAG integration
-- [ ] Evaluation and comparison
+- [x] Knowledge Graph construction (Neo4j)
+- [x] RAG pipeline (LlamaIndex + ChromaDB)
+- [x] GraphRAG integration
+- [x] Evaluation and comparison
 
 ## Tech Stack
 
