@@ -26,6 +26,10 @@ User Query → RAG Pipeline (LlamaIndex + ChromaDB) → GraphRAG → Answer
 
 ## Project Structure
 
+## Knowledge Graph Preview
+
+![Knowledge Graph](assets/kg_graph.png)
+
 ## Status
 
 - [x] Data loading and exploration
