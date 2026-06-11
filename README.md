@@ -18,11 +18,11 @@ User Query → RAG Pipeline (LlamaIndex + ChromaDB) → GraphRAG → Answer
 
 ## Features
 
-- 🔬 **Dataset**: 1,000 labeled PubMedQA question-answer pairs
-- 🧠 **Entity Extraction**: Biomedical NER using spaCy
-- 🕸️ **Knowledge Graph**: Neo4j graph database with entity relationships
-- 🔍 **RAG Pipeline**: ChromaDB vector store + LlamaIndex
-- 📊 **Evaluation**: Vanilla RAG vs GraphRAG comparison
+- **Dataset**: 1,000 labeled PubMedQA question-answer pairs
+- **Entity Extraction**: Biomedical NER using spaCy
+- **Knowledge Graph**: Neo4j graph database with entity relationships
+- **RAG Pipeline**: ChromaDB vector store + LlamaIndex
+- **Evaluation**: Vanilla RAG vs GraphRAG comparison
 
 ## Project Structure
 
